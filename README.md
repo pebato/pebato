@@ -1,9 +1,9 @@
-## Pedro Dib
+# Pedro Dib
 ### Junior Developer
 
 Formando do curso de Análise e Desenvolvimento de Sistemas, na FIAP, com ênfase em Chatbot e Orientação a Objeto.
 
-### Habilidades
+## Habilidades
 
 Inglês Fluente;
 Python 3;
