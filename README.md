@@ -1,5 +1,16 @@
 ### Pedro Dib
-Junior Developer
+## Junior Developer
+
+Formando do curso de Análise e Desenvolvimento de Sistemas, na FIAP, com ênfase em Chatbot e Orientação a Objeto.
+
+## Habilidades
+
+Inglês Fluente;
+Python 3;
+Java EE;
+HTML5/CSS3;
+Chatbot;
+
 
 <!--
 **pebato/pebato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
