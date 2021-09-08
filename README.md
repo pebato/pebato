@@ -1,15 +1,15 @@
 # Pedro Dib
-### Desenvolvedor Junior
+### Desenvolvedor de Aplicações
 
-Formando do curso de Análise e Desenvolvimento de Sistemas, na FIAP, com ênfase em Chatbot e Orientação a Objeto.
+Formando do curso de Análise e Desenvolvimento de Sistemas, na FIAP, com ênfase em Java, IOT e Orientação a Objeto.
 
 ## Hard Skills
 
+Java;<br/>
+Spring;<br/>
+C#; <br/>
 Inglês Fluente; <br/>
-Python 3;<br/>
-Java EE; <br/>
-HTML5/CSS3; <br/>
-Chatbot. <br/>
+Agile. <br/>
 
 ## Soft Skills
 
